@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Kenny Badejo 👋
 
-<!--
-**kennybadex/kennybadex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+Azure Security & Cloud Architect and security enginner with experience designing, securing, and automating cloud platforms.
 
-Here are some ideas to get you started:
+- 🔐 Azure Security / Defender / Sentinel
+- ☁️ Azure Infrastructure & Bicep
+- ⚙️ PowerShell Automation
+- 📊 SOC 2 / Compliance
+- 🚀 CI/CD & GitHub Actions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+- **Cloud:** Azure, AWS
+- **IaC:** Bicep, ARM
+- **Scripting:** PowerShell, Bash
+- **Security:** Defender for Cloud, Azure Sentinel, Entra ID
+- **CI/CD:** GitHub Actions
+- **OS:** Windows, macOS, Linux
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/kenny-badejo-47295b1b/
+- 
+
+---
+
+⭐️ *Always learning. Always securing.*
+
