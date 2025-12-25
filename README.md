@@ -22,8 +22,8 @@ Azure Security & Cloud Architect and security enginner with experience designing
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/kenny-badejo-47295b1b/
-- 
+- 💼 LinkedIn: https://www.linkedin.com/in/kenny-badejo-47295b1b/
+
 
 ---
 
